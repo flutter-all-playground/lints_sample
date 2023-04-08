@@ -19,3 +19,4 @@ linter:
     prefer_final_locals: true
     avoid_unused_constructor_parameters: true
     always_declare_return_types: true
+    # always_declare_return_types: false
