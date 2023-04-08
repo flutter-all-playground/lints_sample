@@ -10,6 +10,7 @@ analyzer:
     prefer_single_quotes: ignore 
     avoid_unused_constructor_parameters: warning 
     always_declare_return_types: error 
+    # always_declare_return_types: warning 
 
 linter:
   rules:
